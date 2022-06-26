@@ -1,0 +1,12 @@
+{
+  "name": "rekordbox-update-track-locations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "xml-formatter": "^2.6.1",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.32"
+  }
+}
